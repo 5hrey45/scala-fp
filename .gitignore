@@ -1,0 +1,8 @@
+*.class
+*.log
+
+# intellij idea related directories
+.bsp/
+.idea/
+project/
+target/
